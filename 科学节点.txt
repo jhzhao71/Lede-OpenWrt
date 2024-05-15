@@ -1,0 +1,10 @@
+hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://109.104.152.194:58510?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://62.210.243.131:18702?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
+hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com
+hy2://dongtaiwang.com@51.159.77.198:53967?insecure=1&sni=www.bing.com
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz&encryption=none
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz&encryption=none
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh9.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz&encryption=none
+hysteria://64.31.55.72:55661?upmbps=5&downmbps=20&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
